@@ -334,7 +334,7 @@ a {
   font-size: clamp(35px, 5vw, 60px);
   line-height: 1.05;
   letter-spacing: -3px;
-  margin-left: 120px;
+  /* margin-left: 120px; */
 }
 
 .section-title span {
@@ -346,7 +346,7 @@ a {
 .about-content {
   max-width: 850px;
   margin-top: 40px;
-  margin-left: 90px;
+  /* margin-left: 90px; */
 }
 
 .about-content p {
